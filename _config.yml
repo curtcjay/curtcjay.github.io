@@ -1,16 +1,16 @@
-title: Jekyll Vision Casper Theme
-email: hugo.colombo23@gmail.com
+title: Let's Talk Data
+email: curtis.cjames91@gmail.com
 author:
-  picture: http://site.hugocarreira.me/assets/img/compressed/hugo.jpg #URL FORMAT
-  name: Hugo Carreira
-  location: Rio de Janeiro - Brazil
-  description: "19 years old, studying computer science"  
-description: only my simple vision of casper theme
+  picture: https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10885564_10205512316312359_2797026943429185315_n.jpg?oh=4a6fc344099449aa1ddf0e5dc99f84d8&oe=595001ED #URL FORMAT
+  name: Curtis James
+  location: New York City
+  description: "Former data analyst, turned research assistant, turned data engineer. I'm currently a consultant at the World Bank Group"  
+description: casper theme jekyll site
 baseurl: "/"
-url: https://hugocarreira.github.io/jekyll-vision-casper-theme
-twitter_username: hugocolombo23
-github_username:  hugocarreira
-github_url: https://hugocarreira.github.io/jekyll-vision-casper-theme/
+url: https://curtcjay.github.io/
+twitter_username: curtisjame_s
+github_username:  curtcjay
+github_url: https://github.com/curtcjay
 
 # Build settings
 permalink: :title
