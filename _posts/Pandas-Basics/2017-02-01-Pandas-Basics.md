@@ -305,7 +305,7 @@ unrate.plot()
 
 
 
-![png](output_25_1.png)
+![png](/_posts/Pandas-Basics/output_25_1.png)
 
 
 
