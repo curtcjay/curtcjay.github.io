@@ -42,9 +42,3 @@ print('The longest streak in the data is: {}'.format(longest_streak(data)))
     Group:(0, 1) Count:3
     Group:(1, 1) Count:1
     The longest streak in the data is: 5
-
-
-
-```python
-
-```
