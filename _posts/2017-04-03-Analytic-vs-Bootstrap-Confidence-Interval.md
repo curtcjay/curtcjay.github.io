@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: "Analytic vs Bootstrap Confidence Intervals"
+date: 2017-04-03
+excerpt: "Whats the difference between analytic and bootstrap confidence intervals?"
+tags: [python, statistics]
+comments: true
+---
 
 ```python
 data = [
@@ -73,7 +80,3 @@ print "Bootstrap\t(%.3f, %.3f)" % (mu-2*se_boot, mu+2*se_boot)
     Bootstrap	(0.079, 2.303)
 
 
-
-```python
-
-```

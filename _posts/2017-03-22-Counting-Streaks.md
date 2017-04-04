@@ -2,8 +2,8 @@
 layout: post
 title: "Counting Streaks"
 date: 2017-03-22
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+excerpt: "Common Python question: write a python script that can count streaks in a given list of tuples and returnthe longest streak"
+tags: [python]
 comments: true
 ---
 

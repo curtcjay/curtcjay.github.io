@@ -1,4 +1,13 @@
 
+---
+layout: post
+title: "Using Pandas"
+date: 2017-02-01
+excerpt: "Here are some basic functionalities of the Pandas library in Python"
+tags: [python, statistics, pandas]
+comments: true
+---
+
 Pandas Basics
 --
 1. What Is Pandas?
