@@ -304,8 +304,10 @@ unrate.plot()
 
 
 
-
-![png](/_posts/Pandas-Basics/output_25_1.png)
+{% capture images %}
+  /_posts/Pandas-Basics/output_25_1.png
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=1 %}
 
 
 
