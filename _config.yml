@@ -1,7 +1,7 @@
 # Site
 title:              The Data Munger
-bio:                "Hello, My name's Curtis. I'm an economist by training and data analyst by practice. Here are posts on how I use Python for vizualization and analytics. I'm going to be adding a section soon for Spark and big data analytics."
-description:        "DataMunger is a blog for post about Python and Analytics"
+bio:                "Hello, My name's Curtis. I'm an Economist by training and Data Analyst by practice. Here are posts on how I use Python for vizualization and analytics. I'm going to be adding a section for Spark and big data analytics soon."
+description:        "TheDataMunger is a blog for post about Python and Analytics"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.png'
