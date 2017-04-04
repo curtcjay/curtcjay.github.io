@@ -22,7 +22,7 @@ Pandas Basics
 
 
 1.1 Series
----
+--
 
  The simplest pandas data type is a series.
 
@@ -54,7 +54,7 @@ s
 - Made up of a one-dimensional array of data and an one-dimensional index.
 
 1.2 Accessing Elements
----
+--
 - Elements can be accessed using the standad [ ] notation
 
 
@@ -140,7 +140,7 @@ print(s['c'],s[2])
 
 
 1.3 Manipulating Series
----
+--
 - There are a myriad of options for manipulating series, here are a few examples
 
 
@@ -206,7 +206,7 @@ s
 
 
 1.4 Time Series
----
+--
 - We've seen that an index of a series can really be any list we want. What about dates?
 
 
@@ -325,7 +325,7 @@ plt.plot(unrate)
 
 
 1.6 Resampling
----
+--
 - A nice feature of pandas time series is the ability to resample the time series
 - Currently the unemployement rate data is monthly.
 - Transforming it into quarterly data is easy
@@ -410,7 +410,7 @@ unrate_q.plot()
 
 
 2. Data Frames
----
+--
 - Most comonly used object in pandas is a data frame
 - Think of the data fame as a 2-dimensional array with lables for both the columns and the rows
 - Alternatively as a dictionary of Series
@@ -485,7 +485,7 @@ df
 
 
 2.1 Accessing Elements
----
+--
 - Element access is very similar to series and numpy arrays
 
 
@@ -613,7 +613,7 @@ df.head(3)
 
 
 2.2 Modifying Data
----
+--
 - As with series we can apply functions to data frames
 
 
@@ -762,7 +762,7 @@ df.describe()
 
 
 2.3 Boolean Indexing
----
+--
 - Another cool thing about pandas is the ability to index elements with booleans
 - A natural question to ask is, "What on earth is a boolean?"
 - Booleans are very simple variables that can be in only one of 2 states: True and False
@@ -1176,7 +1176,7 @@ df.groupby('gender').describe()
 
 
 2.5 Data Frames and Times Series
----
+--
 - Up to now we've been treating the index of a data frame as the sequence 0,1,2,. . .
 - Could just as easily be a data range, which allows pandas to hold sequences of diferent sampling rates
 - Recall the UNRATE sequence holds monthly data
@@ -1310,7 +1310,7 @@ macro.interpolate().plot(subplots = True)
 Practice Makes Perfect!
 --
 Thank you!
----
+--
 
 
 ```python
